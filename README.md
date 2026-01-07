@@ -124,8 +124,7 @@
 
 #### Use the following SQL from Python to access data
 - **Join account, order, card, disposition, client, district with loan, transaction table based on account_id(inner join)**
-- This GitHub repository includes detailed solutions for all tasks in the Capstone_Project_On_Data_Science_By_Prajwal file 
-
+- Please refer to the Capstone_Project_On_Data_Science_By_Prajwal file for a better understanding of the complete solutions and implementation details.
 
 
 
