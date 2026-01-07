@@ -126,8 +126,38 @@
 - **Join account, order, card, disposition, client, district with loan, transaction table based on account_id(inner join)**
 - Please refer to the Capstone_Project_On_Data_Science_By_Prajwal file for a better understanding of the complete solutions and implementation details.
 
+----
+# Jupyter Notebook
+
+----
+### **Classification model based on Loan status, keeping amount duration and payments.**
+
+- Independent variables
+  - loan_amount
+  - duration
+  - payments
+
+- Dependent variables
+  - status
+
+- Install MySQL Connector
+
+- **pip install mysql-connector-python**
+
+----
+### **Clustering Account IDs based on Loan Amount and Balance**
+
+- Independent variables
+  - Account_id
+  - loan_amount
+  - Balance
+
+- Install MySQL Connector
+
+- **pip install mysql-connector-python**
 
 
+ 
 
 
 
