@@ -123,8 +123,8 @@
 - **Account, order table with card, disposition, client, district table based on account id(left join)**
 
 #### Use the following SQL from Python to access data
-- ** Join account, order, card, disposition, client, district with loan, transaction table based on account_id(inner join)**
-- 
+- **Join account, order, card, disposition, client, district with loan, transaction table based on account_id(inner join)**
+- This GitHub repository includes detailed solutions for all tasks in the Capstone_Project_On_Data_Science_By_Prajwal file 
 
 
 
