@@ -194,10 +194,6 @@ https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analyti
 https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Clustering_Account_IDs_based_on_Loan_Amount_and_Balance.ipynb
  
 
-----
-### Contact Details
-- **Email:** pmghotkar05@gmail.com  
-- **Instagram:** [prajwalghotkar_02](https://www.instagram.com/prajwalghotkar_02/)
 
 
 
