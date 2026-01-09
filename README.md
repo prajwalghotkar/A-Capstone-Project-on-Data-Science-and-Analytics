@@ -5,6 +5,8 @@
 **This project will showcase an end-to-end solution of Data Science processes and technologies.**  
 
 **In this project the raw real-time data has to be stored in the staging area (Database) and from there all the ETL functionalities has to be performed.**
+<img width="1536" height="1024" alt="2b9b4af1-b270-4661-92e1-9fcb2fb134c9" src="https://github.com/user-attachments/assets/0bb9f575-0589-4bba-9bd8-e793f31eb85b" />
+
 
 #### 1.	Datasets Entity mapping
 <img width="821" height="400" alt="Screenshot 2026-01-07 192647" src="https://github.com/user-attachments/assets/09c88f23-c673-475d-ad57-0f1236edafb9" />
