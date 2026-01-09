@@ -176,7 +176,7 @@ https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analyti
 <img width="1332" height="656" alt="Screenshot 2026-01-08 110017" src="https://github.com/user-attachments/assets/204b060b-478d-4ccd-83b5-0dd8d2a7cea4" />
 
 
-
+https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Clustering_Account_IDs_based_on_Loan_Amount_and_Balance.ipynb
  
 
 
