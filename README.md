@@ -94,27 +94,38 @@
 <img width="1272" height="809" alt="Screenshot 2026-01-07 205654" src="https://github.com/user-attachments/assets/0505f4af-0eda-4927-ab77-89c52f1c9767" />
 <img width="777" height="352" alt="Screenshot 2026-01-07 210640" src="https://github.com/user-attachments/assets/0d964f3d-3eef-4541-8c0b-20dbca602512" />
 
+---
+
 - **disp table**
 <img width="1301" height="736" alt="Screenshot 2026-01-07 205715" src="https://github.com/user-attachments/assets/41fb06e9-b470-41b2-b1db-7b02cb9ac882" />
 <img width="793" height="323" alt="Screenshot 2026-01-07 210700" src="https://github.com/user-attachments/assets/6754e19f-c30b-4396-8db6-65d93a23e6e7" />
+
+---
 
 - **district table**
 <img width="1266" height="774" alt="Screenshot 2026-01-07 205734" src="https://github.com/user-attachments/assets/30ca7a8b-9a2d-4a0d-82c8-920ed3b055cf" />
 <img width="779" height="278" alt="Screenshot 2026-01-07 210714" src="https://github.com/user-attachments/assets/2d446d15-1436-46a9-80fa-0f58fcc4cc88" />
 
+---
+
 - **loan table**
 <img width="1207" height="752" alt="Screenshot 2026-01-07 205815" src="https://github.com/user-attachments/assets/cbb2ae0c-fd73-4f6c-a9f7-64cd0db2ae08" />
 <img width="787" height="300" alt="Screenshot 2026-01-07 210729" src="https://github.com/user-attachments/assets/4e58fe84-b561-4330-a457-47e9eeb02480" />
 
+---
+
 - **orders table**
 <img width="1275" height="802" alt="Screenshot 2026-01-07 205844" src="https://github.com/user-attachments/assets/a36f56cc-6323-4750-8498-14daccea7cbd" />
 <img width="781" height="255" alt="Screenshot 2026-01-07 210742" src="https://github.com/user-attachments/assets/a443fc7c-3915-433c-a452-67d7d497389b" />
+
+---
 
 - **transaction_data table**
 <img width="1164" height="752" alt="Screenshot 2026-01-07 205906" src="https://github.com/user-attachments/assets/8f8b1140-1cc3-4a36-a4a8-2701af995181" />
 <img width="819" height="271" alt="Screenshot 2026-01-07 210756" src="https://github.com/user-attachments/assets/e9ac2c6d-dcb3-419d-8f99-a6ef8f9d2f53" />
 
 ----
+
 - **Transaction and Loan table**
 - **Account and Orders table**
 - **Card and Disposition table**
@@ -148,6 +159,7 @@
 - **pip install mysql-connector-python**
 <img width="1332" height="656" alt="Screenshot 2026-01-08 110017" src="https://github.com/user-attachments/assets/3d301037-2730-435c-9c0b-4b491cabb881" />
 
+https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Classification_model_By_Prajwal_based_on_Loan_Status_Keeping_amount_duration_and_Payments.ipynb
 
 ----
 ### **Clustering Account IDs based on Loan Amount and Balance**
