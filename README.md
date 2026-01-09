@@ -125,6 +125,9 @@
 #### Use the following SQL from Python to access data
 - **Join account, order, card, disposition, client, district with loan, transaction table based on account_id(inner join)**
 - Please refer to the Capstone_Project_On_Data_Science_By_Prajwal file for a better understanding of the complete solutions and implementation details.
+<img width="1386" height="893" alt="Screenshot 2026-01-08 105350" src="https://github.com/user-attachments/assets/d8af680e-c5e2-46c4-a6bc-431d52d1e8c6" />
+<img width="1812" height="880" alt="Screenshot 2026-01-08 105408" src="https://github.com/user-attachments/assets/bb015939-ff4e-4507-8cb9-99745a209600" />
+
 
 ----
 # Jupyter Notebook
@@ -143,6 +146,8 @@
 - Install MySQL Connector
 
 - **pip install mysql-connector-python**
+<img width="1332" height="656" alt="Screenshot 2026-01-08 110017" src="https://github.com/user-attachments/assets/3d301037-2730-435c-9c0b-4b491cabb881" />
+
 
 ----
 ### **Clustering Account IDs based on Loan Amount and Balance**
@@ -155,6 +160,9 @@
 - Install MySQL Connector
 
 - **pip install mysql-connector-python**
+
+<img width="1332" height="656" alt="Screenshot 2026-01-08 110017" src="https://github.com/user-attachments/assets/204b060b-478d-4ccd-83b5-0dd8d2a7cea4" />
+
 
 
  
