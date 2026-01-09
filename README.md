@@ -51,31 +51,46 @@
 - Right Click Tables -> Table Data Import Wizard
 <img width="1762" height="982" alt="Screenshot 2026-01-07 202256" src="https://github.com/user-attachments/assets/f2dd59c4-863d-4af3-966c-96db7766dd3b" />
 
+---
+
 - Click Browse
   - Select the folder where data is available
   - Select .csv file Name
   - Click Open
 <img width="1829" height="972" alt="Screenshot 2026-01-07 202625" src="https://github.com/user-attachments/assets/5f24ab6e-76b2-4599-a8d9-da816fc6cc93" />
 
+---
+
 - Click Next on Select File to Import
 <img width="1066" height="786" alt="Screenshot 2026-01-07 202554" src="https://github.com/user-attachments/assets/75057e97-f4f3-46e2-9c8e-19284df0b5ba" />
+
+---
 
 - Data Base name and Table Name Auto populate - Update any change required
 <img width="1389" height="1000" alt="Screenshot 2026-01-07 202713" src="https://github.com/user-attachments/assets/39a6432e-acef-407a-839a-c3b51d493ce6" />
 
+---
+
 - Use Default and click Next
 <img width="1185" height="961" alt="Screenshot 2026-01-07 202748" src="https://github.com/user-attachments/assets/b964a569-1008-4727-a970-cda3a265ace2" />
+
+---
 
 - Use Default and click Next
 <img width="1171" height="959" alt="Screenshot 2026-01-07 202928" src="https://github.com/user-attachments/assets/96819e91-ef80-4c0e-b0f7-93675109d9f7" />
 
+---
+
 - Once the Data import is complete click Next
 <img width="1171" height="959" alt="Screenshot 2026-01-07 202928" src="https://github.com/user-attachments/assets/6b3de707-bab5-4ba4-807e-caa3d2aa0caf" />
+
+---
 
 - Click Finish
 <img width="895" height="630" alt="image" src="https://github.com/user-attachments/assets/4cd71268-9cbf-48b3-8096-1f42aa6ba382" />
 
 ----
+
 # How my tables look like and Count the number of records in each table
 
 - **account table**
