@@ -182,7 +182,6 @@ https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analyti
 ----
 ### Contact Details
 - **Email:** pmghotkar05@gmail.com  
-- **Phone:** 8552860188  
 - **Instagram:** [prajwalghotkar_02](https://www.instagram.com/prajwalghotkar_02/)
 
 
