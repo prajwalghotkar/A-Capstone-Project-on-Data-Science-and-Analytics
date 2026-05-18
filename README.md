@@ -192,6 +192,9 @@ https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analyti
 
 
 https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Clustering_Account_IDs_based_on_Loan_Amount_and_Balance.ipynb
+
+
+file:///C:/Users/pmgho/Downloads/prajwal_ghotkar_datavault.html#analytics
  
 
 
