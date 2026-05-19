@@ -1,5 +1,7 @@
 # A-Capstone-Project-on-Data-Science-and-Analytics
 
+- https://capstone-data-science-project-prajwal.netlify.app/
+
 ----
 
 **This project will showcase an end-to-end solution of Data Science processes and technologies.**  
