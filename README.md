@@ -176,8 +176,7 @@
 - **pip install mysql-connector-python**
 <img width="1332" height="656" alt="Screenshot 2026-01-08 110017" src="https://github.com/user-attachments/assets/3d301037-2730-435c-9c0b-4b491cabb881" />
 
-https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Classification_model_By_Prajwal_based_on_Loan_Status_Keeping_amount_duration_and_Payments.ipynb
-
+https://github.com/prajwalghotkar/A-Capstone-Project-on-Data-Science-and-Analytics/blob/main/Classification_model_By_Prajwal_based_on_Loan_Status_Keeping_amount_duration_and_Payments%20(1).ipynb
 ----
 ### **Clustering Account IDs based on Loan Amount and Balance**
 
