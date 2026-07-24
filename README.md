@@ -1,6 +1,6 @@
 # A-Capstone-Project-on-Data-Science-and-Analytics
 
-- https://capstone-data-science-project-prajwal.netlify.app/
+- https://capstone-data-science-project-prajwal.netlify.app/   
 
 ----
 
